@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/broque-live/_next/static/chunks/01xlw8hd842-c.js","/broque-live/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-cream flex items-center justify-center","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"font-serif text-6xl text-ink mb-4","children":"404"}],["$","p",null,{"className":"font-serif italic text-lg text-ink-soft mb-6","children":"This page couldn't be found."}],["$","a",null,{"href":"/","className":"font-sans text-sm text-ink underline hover:no-underline","children":"Return home"}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tytxrlVeajzd_IDP67AmU"}
+4:null
